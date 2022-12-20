@@ -3,5 +3,7 @@ Welcome to Coding Skills!!
 
 Welcome Welcome Welcome
 
-
+Python
+C,C++
+Java
 Thank you
